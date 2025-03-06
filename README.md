@@ -5,6 +5,6 @@
 ![demo](https://github.com/user-attachments/assets/ec631212-2d4c-4852-9f1d-dbb95fbf17f7)
 
 
--To use the tool, upload the app.py, the requirements.txt file to your huggingface space. 
+-To use the tool, upload the app.py, the requirements.txt, and image files to your [huggingface space](https://huggingface.co/spaces/). 
 
 
